@@ -1,4 +1,4 @@
-# Good old-fashioned "4 in a Row" gameplay
+# Good old-fashioned "4 in a Row" Gameplay
 # Windows Desktop Application
 # Code -- Bullets:
 # C# .NET Framework
