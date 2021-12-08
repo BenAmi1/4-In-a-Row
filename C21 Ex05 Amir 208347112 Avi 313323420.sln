@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface4InARow", "UserInterface4InARow\UserInterface4InARow.csproj", "{9A140C57-DB3F-4A4F-94AF-0263F34F08C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic4InARow", "Logic4InARow\Logic4InARow.csproj", "{0ABD3FA6-9FA5-465D-AAF9-1376FB35E0D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A140C57-DB3F-4A4F-94AF-0263F34F08C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A140C57-DB3F-4A4F-94AF-0263F34F08C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A140C57-DB3F-4A4F-94AF-0263F34F08C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A140C57-DB3F-4A4F-94AF-0263F34F08C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABD3FA6-9FA5-465D-AAF9-1376FB35E0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD3FA6-9FA5-465D-AAF9-1376FB35E0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD3FA6-9FA5-465D-AAF9-1376FB35E0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD3FA6-9FA5-465D-AAF9-1376FB35E0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF275A9D-8438-48F0-8826-9A9FD63D48F5}
+	EndGlobalSection
+EndGlobal
